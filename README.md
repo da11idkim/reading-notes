@@ -10,7 +10,7 @@
 ## 3 Reminders towards a "Growth Mindset"
 1. Nothing is impossible
 2. Focus on the things you can control
-3. Stop being afraid of what can go wrong. Start being excited about what can go right.
+3. Trust the process
 
 ## New Changes to my readme file.
 
