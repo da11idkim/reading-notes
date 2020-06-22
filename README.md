@@ -12,7 +12,5 @@
 2. Focus on the things you can control
 3. Trust the process
 
-## New Changes to my readme file.
 
-New Information
 
