@@ -6,7 +6,7 @@ Growth vs. Fixed Mindset - A growth mindset is a belief that intelligence can be
 - Learn from criticism
 - Find lessons and inspirations in the sucess of others
 
-## Three reminders towards achieving a growth mindset
+## 3 reminders towards achieving a "Growth Mindset"
 1. Nothing is impossible
 2. Focus on the things you can control
 3. Trust the process
