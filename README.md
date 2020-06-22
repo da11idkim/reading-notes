@@ -1,8 +1,5 @@
 # My Learning Journal
-1. Growth vs. Fixed Mindset 
-
-A growth mindset is a belief that intelligence can be developed and acquired through your efforts.  
-
+Growth vs. Fixed Mindset - A growth mindset is a belief that intelligence can be developed and acquired through your efforts.  
 - Embrace challenges
 - Persist in the face of setbacks
 - See efforts as the path to mastery
