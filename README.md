@@ -11,5 +11,6 @@ Growth vs. Fixed Mindset - A growth mindset is a belief that intelligence can be
 2. Focus on the things you can control
 3. Trust the process
 
+### New changes to readme file.
 
 
