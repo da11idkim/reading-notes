@@ -7,7 +7,7 @@
 - Learn from criticism
 - Find lessons and inspirations in the sucess of others
 
-## Three reminders towards achieving a Growth Mindset
+## Three reminders towards achieving a growth mindset
 1. Nothing is impossible
 2. Focus on the things you can control
 3. Trust the process
