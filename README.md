@@ -1,6 +1,6 @@
 #David's Reading Notes (102)#
 
-What is a Growth Mindset? ** A growth mindset is a belief and attitude that in order to learn and grow, one must embrace challaneges and believe in their abilities to achieve more than what is required of themselves.
+What is a Growth Mindset? ** A growth mindset is a belief and attitude that in order to learn and grow, one must embrace challaneges and believe in their abilities to achieve more than what is required of themselves!
 
 1. Embrace challenges
 2. Persist in the face of setbacks
