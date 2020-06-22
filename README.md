@@ -1,5 +1,4 @@
 # My Learning Journal
-
 1. Growth vs. Fixed Mindset - A growth mindset is a belief that intelligence can be developed and acquired through your efforts.  
 
 - Embrace challenges
@@ -10,8 +9,8 @@
 
 ## 3 Reminders towards a "Growth Mindset"
 1. Nothing is impossible
-2. Focus on creating good habits
-3. Learn from mistakes. Failure is necessary in order to grow
+2. Focus on the things you can control
+3. Stop being afraid of what can go wrong. Start being excited about what can go right.
 
 ## New Changes to my readme file.
 
